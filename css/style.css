@@ -42,10 +42,10 @@ img{
 }
 
 p{
-  font-family: lobster;
+  font-family: 'Open Sans', sans-serif;
   text-align: justify;
   text-indent: 20px;
-  font-size: 26px;
+  font-size: 18px;
 }
 
 .block2{
