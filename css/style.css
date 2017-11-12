@@ -45,11 +45,11 @@ p{
   font-family:verdana;
   text-align: justify;
   text-indent: 20px;
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
  mark {
-    background-color: white-smoke;
+    background-color: darkgreen;
 }
 
 .block2{
