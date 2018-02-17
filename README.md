@@ -8,4 +8,4 @@ in case my own Web-Server is down at 000webhosting, because it's free, for peopl
  
  I'm also doing online coding lessons (HTML,CSS and JScript) at FreeCodeCamp, you can check my **Code CV** that I have already completed here [Luis Miguel T - Code lessons completed](https://www.freecodecamp.org/linuxfce) at FreeCodeCamp.
 
-A Pen created by me at CodePen.io. You can find this one at [migLinux](http://codepen.io/migLinux/pen/QgOwdx) .
+A Pen created by me at CodePen.io. You can find this one at [migLinux](https://codepen.io/migLinux/) .
