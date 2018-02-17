@@ -3,16 +3,17 @@
   text-align: center;
   margin: auto;
 }
-h1 {
+h1,h3 {
   font-family: 'Tangerine', serif;
   font-size: 50px;
   color: brown;
 }
+/*
 h3 {
   font-family: 'Tangerine', serif;
   color: brown;
 }
-
+*/
 body {
   font-family: lobster;
   background: no-repeat center center fixed;
