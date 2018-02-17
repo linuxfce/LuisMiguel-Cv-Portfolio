@@ -10,7 +10,7 @@ h1 {
 }
 
 body {
-  font-family: lobster;
+  font-family: 'arial', serif;
   background: no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -37,7 +37,7 @@ img{
   width: 75%;
   margin-right: auto;
   margin-left:auto;
-  border-radius: 25px;    
+  border-radius: 25px;
   padding-bottom:2%;
 }
 
@@ -59,7 +59,7 @@ p{
   width: 37.5%;
   margin-right: auto;
   margin-left:auto;
-  border-radius: 25px;    
+  border-radius: 25px;
   padding-bottom:2%;
 }
 
