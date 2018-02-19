@@ -24,7 +24,7 @@ body {
   background-size: cover;
 }
 .spacer{
-  padding:2%;
+  padding:5%;
 }
 img{
   border-radius:10%;
@@ -34,8 +34,6 @@ img{
 }
 .btn{
   box-shadow: 5px 5px 8px black;
-  margin-right: auto;
-  margin-left:auto;
  }
 
 .block{
