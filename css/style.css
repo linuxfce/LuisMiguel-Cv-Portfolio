@@ -34,6 +34,8 @@ img{
 }
 .btn{
   box-shadow: 5px 5px 8px black;
+  margin-right: auto;
+  margin-left:auto;
  }
 
 .block{
@@ -63,9 +65,7 @@ p{
   color: white;
   padding: 30px;
   width: 37.5%;
-/*
   margin-right: auto;
-*/
   margin-left:auto;
   border-radius: 25px;
   padding-bottom:2%;
