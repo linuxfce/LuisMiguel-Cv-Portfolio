@@ -61,10 +61,8 @@ p{
 .block2{
   background: rgba(0,0,0, .8);
   color: white;
-/*
-  padding: 50px;
-*/
-  width: 37.5%;
+  padding: 30px;
+  width: auto;
 
   margin-right: auto;
   margin-left:auto;
