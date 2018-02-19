@@ -7,11 +7,12 @@ h1 {
   font-family: 'Tangerine', serif;
   font-size: 50px;
   color: brown;
+  text-shadow: 5px 5px 8px #000000;
 }
 
 h3 {
   font-family: lobster;
-  color: whitesmoke;
+  color: olive;
 }
 
 body {
@@ -23,7 +24,7 @@ body {
   background-size: cover;
 }
 .spacer{
-  padding:5%;
+  padding:3%;
 }
 img{
   border-radius:10%;
@@ -67,7 +68,8 @@ p{
   border-radius: 25px;
   padding-bottom:2%;
 }
-
+/*
 h1 {
     text-shadow: 5px 5px 8px #000000;
 }
+*/
